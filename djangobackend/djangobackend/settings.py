@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-vm1ep3pllv-^ifyt979q&^wt^&kdb^_zhto#p3ih(4mt3o7j#z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ec2-13-53-206-4.eu-north-1.compute.amazonaws.com','https://github.com/sahana-github']
 
 
 # Application definition
